@@ -9,7 +9,3 @@ Kartu ucapan ulang tahun **statis** dengan efek foto beterbangan dan musik latar
 - **Musik latar** (file di folder `music/`).
 - **Statik & ringan**: cukup upload ke hosting statis (Netlify/GitHub Pages).
 - **Mudah kostumisasi**: ganti gambar di `images/` & musik di `music/`.
-
----
-
-## Struktur
